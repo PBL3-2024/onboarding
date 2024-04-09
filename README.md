@@ -67,7 +67,7 @@ Congratulations, you are now ready to start using git and github. You should be 
 ## Team Members
 
 * Jesse
-* Replace this with your name
+* Andy m
 * Replace this with your name
 * Replace this with your name
 * Replace this with your name
