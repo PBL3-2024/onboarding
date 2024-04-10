@@ -68,7 +68,7 @@ Congratulations, you are now ready to start using git and github. You should be 
 
 * Jesse
 * Andy m
-* Replace this with your name
+* Hiroyuki YAMABE
 * Replace this with your name
 * Replace this with your name
 * Replace this with your name
