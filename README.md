@@ -68,7 +68,7 @@ Congratulations, you are now ready to start using git and github. You should be 
 
 * Jesse
 * Andy - Mod 2
-* Hiroyuki YAMABE
+* Hiroyuki
 * Hikaru
 * Sushaant
 * LIN Jie
