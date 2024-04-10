@@ -69,7 +69,7 @@ Congratulations, you are now ready to start using git and github. You should be 
 * Jesse
 * Andy m
 * Hiroyuki YAMABE
-* Replace this with your name
+* Hikaru
 * Replace this with your name
 * Replace this with your name
 * Replace this with your name
