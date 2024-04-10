@@ -67,7 +67,7 @@ Congratulations, you are now ready to start using git and github. You should be 
 ## Team Members
 
 * Jesse
-* Andy m
+* Andy - Mod 2
 * Hiroyuki YAMABE
 * LIN Jie
 * Replace this with your name
