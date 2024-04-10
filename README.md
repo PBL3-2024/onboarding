@@ -72,7 +72,7 @@ Congratulations, you are now ready to start using git and github. You should be 
 * Hikaru
 * Sushaant
 * LIN Jie
-* Replace this with your name
+* Satvik
 * Replace this with your name
 * Replace this with your name
 
